@@ -1,0 +1,12 @@
+atguigu  helloworld
+shangguigu helloworld
+spark atguigu helloworld
+kafka helloworld
+flume helloworld
+hadoop helloworld
+hive helloworld
+mysql helloworld
+jdbc helloworld
+linux helloworld
+Maven helloworld
+
